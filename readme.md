@@ -37,10 +37,10 @@ git clone https://github.com/abhi6689-develop/call-writing-fe.git
 cd call-writing-fe
 ```
 
-#### **3.2. Setting Up the Backend**
+#### **3.2. Setting Up the Backend (All commands in the first terminal session)**
 - **Dependencies**: Install all required Python packages using: `pip install -r requirements.txt`.
 - **Starting the Server**: Use the command: `python server.py`.
 
-#### **3.3. Setting Up the Frontend**
+#### **3.3. Setting Up the Frontend (All commands in the second terminal session)**
 - **Dependencies**: Install all required Node modules using: `npm install`.
 - **Starting the Application**: Use the command: `npm start`.
